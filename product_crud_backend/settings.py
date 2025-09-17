@@ -132,6 +132,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
    
-    "http://localhost:5174",
+    "https://crud-operations-frontend-one.vercel.app",
      # 👈 replace for prod
 ]
